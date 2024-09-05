@@ -6,3 +6,4 @@
 5. [https://github.com/Rahul18-git/23CSBTB27-28/blob/main/game2.ipynb]
 6. [https://github.com/Rahul18-git/23CSBTB27-28/blob/main/game3.ipynb]
 7. [https://github.com/Rahul18-git/23CSBTB27-28/blob/main/game4.ipynb]
+8. [https://github.com/Rahul18-git/23CSBTB27-28/blob/main/lab-3-Game5.ipynb]
