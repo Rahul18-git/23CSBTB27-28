@@ -3,3 +3,4 @@
 3. [https://github.com/Rahul18-git/23CSBTB27-28/blob/main/type_of_list.ipynb]
 4. [https://github.com/Rahul18-git/23CSBTB27-28/blob/main/lab4.ipynb]
 5. [https://github.com/Rahul18-git/23CSBTB27-28/blob/main/lab_5_.ipynb]
+6. [ ]
